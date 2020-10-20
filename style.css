@@ -1,0 +1,17 @@
+html {
+  background-color: rgb(221, 171, 125);
+  color: rgb(4, 95, 95);
+}
+img {
+  max-height: 150px;
+  border: 5px double rgb(4, 95, 95);
+  padding: 2px
+}
+h1 {
+  color: rgb(4, 95, 95);
+  border: 5px solid rgb(4, 95, 95)
+}
+h2 {
+  color: rgb(4, 95, 95);
+  border: 5px dotted rgb(4, 95, 95)
+}
